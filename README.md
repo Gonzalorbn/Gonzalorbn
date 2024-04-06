@@ -77,6 +77,7 @@ continue learning and contribute.
 - [Programming with Python](https://www.udemy.com/certificate/UC-2d49b4b8-029d-4d21-b4dd-a830546b88d9/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com)
 - [STM32 course with HAL drivers on STM32CubeIDE ARM](https://www.udemy.com/certificate/UC-3b45c3ae-e070-4e6c-a3fd-024c658b878b/)
 - [English for Information Technology Course](https://drive.google.com/drive/folders/1tseFV0wjRiM1VwUOj7NwGGMXRP8ZjLZ4)
+- [No Country participation certificate](https://drive.google.com/file/d/1jiTZJOMKmIFlu8_pU7O9NhmoMLV_hvFO/view?usp=sharing)
 
 ## 📫 Contact
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gonzalo-arguello-35227a225/)](https://www.linkedin.com/in/gonzalo-arguello-35227a225/)
